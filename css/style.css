@@ -1,0 +1,20 @@
+body {
+    background-color: #E9ECEF;
+}
+.jumbotron ul {
+    list-style-position: inside;
+}
+/*urunler css ayarları*/
+.urun_color {
+    color:purple;
+
+}
+.urunler .card {
+    width: 300px;
+    height: 400px;
+}
+.urunler .card img {
+    width: 270px;
+    height: 256px;
+}
+/*urunler css ayarları*/
